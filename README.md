@@ -1,12 +1,43 @@
-# React + Vite
+# AI Image Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, dark-themed AI image generator built using **React**, **Vite**, and **Tailwind CSS**, powered by **Pollinations.ai**. Just enter a prompt and generate AI-powered images instantly — with download and history features.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📝 Prompt input with real-time AI image generation
+- 🖼️ View generated images in a stylish UI
+- 💾 One-click image download to local storage
+- 📜 Scrollable prompt history
+- 🌙 Fully responsive dark mode design
+- ⚡ Built with React, Vite, and Tailwind CSS
+- 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  ## 🛠️ Tech Stack
+
+- **React** – UI logic
+- **Vite** – Fast frontend build tool
+- **Tailwind CSS** – Modern utility-first styling
+- **Pollinations.ai** – Free text-to-image generation API
+- **Netlify** – Deployed with auto-redeploy from GitHub
+
+## 🔗 Live Demo
+
+🌐 Try it here:  
+https://indhu-ai-imagegenerator.netlify.app/
+
+
+## 💡 How It Works
+
+1. You enter a creative prompt (e.g., "robot surfing a lava wave").
+2. App sends request to `https://image.pollinations.ai/prompt/{your-prompt}`.
+3. AI image is generated and displayed.
+4. You can download it or reuse the prompt from history.
+
+
+## 📸 Screenshot
+
+
+
+
+
