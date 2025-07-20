@@ -11,8 +11,8 @@ A modern, dark-themed AI image generator built using **React**, **Vite**, and **
 - 📜 Scrollable prompt history
 - 🌙 Fully responsive dark mode design
 - ⚡ Built with React, Vite, and Tailwind CSS
-- 
 
+  
   ## 🛠️ Tech Stack
 
 - **React** – UI logic
@@ -29,13 +29,16 @@ https://indhu-ai-imagegenerator.netlify.app/
 
 ## 💡 How It Works
 
-1. You enter a creative prompt (e.g., "robot surfing a lava wave").
+1. You enter a creative prompt (e.g., "futuristic Mars colony with neon lights").
 2. App sends request to `https://image.pollinations.ai/prompt/{your-prompt}`.
 3. AI image is generated and displayed.
 4. You can download it or reuse the prompt from history.
 
 
 ## 📸 Screenshot
+
+<img width="1366" height="768" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/b973ba2b-6d66-4e65-b691-7a2d3639872c" />
+
 
 
 
